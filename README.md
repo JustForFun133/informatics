@@ -1,0 +1,2 @@
+# informatics
+Repository for MSU 
